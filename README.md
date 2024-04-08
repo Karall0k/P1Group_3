@@ -32,7 +32,7 @@ What data science jobs are the most popular?
 
 ![image](https://github.com/Karall0k/P1Group_3/assets/31460184/89d7c32c-1d18-4679-b0c2-8ae839c790c4)
 
-The graph below shows how the count of the most popular data science jobs changed over the last five years. Since this data is a small sample of all available data science jobs, this may not be representitive of the trend of the population. In this dataset, the salary information collected was greatest during 2023. (The reason that the trend decreases once 2024 starts is due to this year still being in progress so the over count would be less.)
+The graph below shows how the count of the most popular data science jobs changed over the last five years. Since this data is a small sample of all available data science jobs, this may not be representitive of the trend of the population. In this dataset, the salary information collected was greatest during 2023. (The reason that the trend decreases once 2024 starts is due to this year still being in progress so the overall count would be less.)
 
  ![Top Four Most Popular Data Jobs 2020-2024](output_data/CompletePlotFig6.png)
 
