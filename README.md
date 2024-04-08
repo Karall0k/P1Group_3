@@ -47,13 +47,15 @@ The countries with the greatest average salaries are shown below:
 
 The top five countries with the greatest number of data science jobs are show in the following bar chart:
 
-![Numebr of Jobs by Country over 5 Year Period (Tops 5 Countries)](output_data/jobsLocBar.png)
+![Number of Jobs by Country over 5 Year Period (Tops 5 Countries)](output_data/jobsLocBar.png)
 
 
 The majority of jobs in countries with the highest average salary are found in the US and Canada. The other 18 countries with high average salaries, are represented by much smaller dataset.
 
-
-
+How does remote work affect salary?
+About one third of the dataset is represented by remote jobs, with almost two thirds represented by in-person jobs. The average salary for remote positions was less than in-person, but not by a significant margin.
+![Jobs by Work Setting](output_data/worksetting.png)
+![Average Salary by Work Setting](output_data/avg_sal_setting.png)
 
 How does experience influence salary?
 
@@ -70,17 +72,23 @@ The boxplot below shows that the mean entry level salary is close to one standar
 
 
 The average salaries by experience level is presented below for the top four most popular data science job titles of 2024:
-{INSET SALARIES BY EXPERIENCE BAR GRAPH}
+![Average Salary over 5 Year Period by Experience Level ](output_data/avg_four_bar.png)
 
 
 
 
 
 Conclusion:
-Based on our review the highest paying job in the US for an entry-level position in 2024 would be Machine Learning Engineer.
-The average salary of with these specific criteria is $126,118.85
-For remote work, the highest paying job is Data Scientist with an average salary of $105,000.
-The most popular in 2024 job was Data Scientist despite it not having the highest average salary overall.
+
+The most popular job in 2024 job was Data Scientist despite it not having the highest average salary overall.
+
+The US and Canada contain the majority of data science jobs and are among the top countries for highest average salaries. 
+
+The highest paying job in the US for an entry-level position in 2024 would be Machine Learning Engineer, with an average salary of $126k.
+
+For remote work, the highest paying job is Data Scientist with an average salary of $105k. Overall, average salaries between remote and in-person positions are not much different.
+
+
 
 
 
