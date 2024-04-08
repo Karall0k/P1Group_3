@@ -22,15 +22,15 @@ Our findings:
 What data science jobs are the most popular?
     The most popular jobs titles consistantly over the last five years (2020-2024) are "Data Analyst", "Data Engineer", "Machine Learning Engineer", and "Data Scientist".
 
-    [image](https://github.com/Karall0k/P1Group_3/assets/31460184/a44d1f19-df74-4da6-a239-39bc2518c501)
+ ![image](https://github.com/Karall0k/P1Group_3/assets/31460184/a44d1f19-df74-4da6-a239-39bc2518c501)
 
-    [image](https://github.com/Karall0k/P1Group_3/assets/31460184/79e37917-75ac-4080-af0a-42cd066f2952)
+![image](https://github.com/Karall0k/P1Group_3/assets/31460184/79e37917-75ac-4080-af0a-42cd066f2952)
 
-    [image](https://github.com/Karall0k/P1Group_3/assets/31460184/5d3210cc-5148-479b-9641-41eeba5900ca)
+![image](https://github.com/Karall0k/P1Group_3/assets/31460184/5d3210cc-5148-479b-9641-41eeba5900ca)
 
-    [image](https://github.com/Karall0k/P1Group_3/assets/31460184/46c10de9-3b26-47d3-8764-73a708270a7c)
+![image](https://github.com/Karall0k/P1Group_3/assets/31460184/46c10de9-3b26-47d3-8764-73a708270a7c)
 
-    [image](https://github.com/Karall0k/P1Group_3/assets/31460184/07fbfdbe-715d-4c05-8da5-6aef5666e62c)
+![image](https://github.com/Karall0k/P1Group_3/assets/31460184/89d7c32c-1d18-4679-b0c2-8ae839c790c4)
 
 The graph below shows how the count of the most popular data science jobs changed over the last five years. Since this data is a small sample of all available data science jobs, this may not be representitive of the trend of the population. In this dataset, the salary information collected was greatest during 2023. (The reason that the trend decreases once 2024 starts is due to this year still being in progress so the over count would be less.)
 
