@@ -43,7 +43,7 @@ The countries with the greatest average salaries are shown below:
 
 The top five countries with the greatest number of data science jobs are show in the following bar chart:
 
-![Numebr of Jobs by Country over 5 Year Period (Tops 5 Countries)](output_data/jobsLocbar.png)
+![Numebr of Jobs by Country over 5 Year Period (Tops 5 Countries)](output_data/jobsLocBar.png)
 
 
 The majority of jobs in countries with the highest average salary are found in the US and Canada. The other 18 countries with high average salaries, are represented by much smaller dataset.
